@@ -32,4 +32,9 @@ Start the server
 cp application.properties src/main/resources/application.properties
 ```
 
-http://www.sgaemsolutions.com/2019/06/preparing-your-spring-boot-app-to.html
+## Deployment Setup Variables
+
+
+## Documentation
+
+[Read More](http://www.sgaemsolutions.com/2019/06/preparing-your-spring-boot-app-to.html)
