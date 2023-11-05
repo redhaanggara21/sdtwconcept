@@ -34,7 +34,4 @@ cp application.properties src/main/resources/application.properties
 
 ## Deployment Setup Variables
 
-
-## Documentation
-
 [Read More](http://www.sgaemsolutions.com/2019/06/preparing-your-spring-boot-app-to.html)
